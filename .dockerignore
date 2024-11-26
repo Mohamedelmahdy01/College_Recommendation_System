@@ -1,0 +1,26 @@
+# Exclude Python bytecode files
+__pycache__
+*.pyc
+*.pyo
+
+# Exclude virtual environments
+venv/
+env/
+.venv/
+
+# Exclude IDE/editor specific files
+.vscode/
+.idea/
+
+# Exclude Docker-related files
+Dockerfile*
+.dockerignore
+
+# Exclude version control files
+.git/
+.gitignore
+
+# Exclude test files
+tests/
+*.log
+*.sqlite

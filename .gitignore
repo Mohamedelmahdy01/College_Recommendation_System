@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Machine learning model files
+*.pkl
+*.joblib
+
+# Dataset files
+*.csv
+*.tsv
+
+# Logs and debug files
+*.log
+
+# Flask instance folder
+instance/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.venv
+.envrc
+*.env.*
+
+# Generated files
+*.sqlite3
+*.db
