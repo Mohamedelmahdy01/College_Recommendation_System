@@ -11,8 +11,8 @@ venv/
 .ipynb_checkpoints/
 
 # Machine learning model files
-*.pkl
-*.joblib
+#*.pkl
+#*.joblib
 
 # Dataset files
 *.csv
