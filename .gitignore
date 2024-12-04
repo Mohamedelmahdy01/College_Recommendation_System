@@ -15,7 +15,7 @@ venv/
 #*.joblib
 
 # Dataset files
-*.csv
+#*.csv
 *.tsv
 
 # Logs and debug files
